@@ -2,7 +2,7 @@ name: Deploy Bucket
 
 on:
   push:
-    braches:
+    branches:
       - github_actions
 
 jobs:
